@@ -1,4 +1,3 @@
-// Entry point for the build script in your package.
 import { Application } from "@hotwired/stimulus"
 
 const application = Application.start()
